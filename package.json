@@ -39,6 +39,6 @@
     "color-string": "^0.3.0",
     "es6-collections": "^0.5.1",
     "firmata": "^0.5.1",
-    "johnny-five": "^0.8.74"
+    "johnny-five": "^0.9.1"
   }
 }
